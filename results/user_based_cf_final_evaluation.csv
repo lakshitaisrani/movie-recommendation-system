@@ -1,0 +1,2 @@
+Algorithm,Neighbours,Min_Common_Ratings,MAE,RMSE,Coverage
+User-Based Collaborative Filtering,300,3,0.7494,0.9701,88.15
